@@ -57,7 +57,7 @@ Sehar Fatima – Project Creator
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project under the license terms.
 
 ## Screenshot    
-> `![Age Calculator Screenshot](screenshot.png)`
+![Age Calculator Screenshot](screenshot.png)
 
 ## How to Contribute  
 If you'd like to contribute to the project, follow these steps:
