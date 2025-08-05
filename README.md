@@ -81,8 +81,8 @@ If you'd like to contribute to the project, follow these steps:
 If you have any questions or suggestions, feel free to connect:
 
 - **Email:** fatimasehar521@gmail.com  
-- **GitHub:** [your-github-profile](https://github.com/Sehar5040fatima)  
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/sehar-fatima-8b86b9201/)
+- **GitHub:** [Sehar Fatima](https://github.com/Sehar5040fatima)  
+- **LinkedIn:** [Sehar Fatima](https://www.linkedin.com/in/sehar-fatima-8b86b9201/)
 
 ## Tests  
 Manual testing is included by verifying various birthdates and ensuring accurate calculations across different scenarios.  
