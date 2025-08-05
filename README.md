@@ -56,10 +56,8 @@ Sehar Fatima – Project Creator
 ## License  
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project under the license terms.
 
-## Screenshot  
-*(Include a screenshot of the app here)*  
-> You can add a screenshot in your repo by saving the image in the project folder and referencing it like this:  
-> `![Age Calculator Screenshot](./screenshot.png)`
+## Screenshot    
+> `![Age Calculator Screenshot](screenshot.png)`
 
 ## How to Contribute  
 If you'd like to contribute to the project, follow these steps:
